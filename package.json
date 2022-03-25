@@ -2,7 +2,7 @@
   "name": "ajs-homework2-2",
   "version": "1.0.0",
   "description": "homework",
-  "main": "index.js",
+  "main": "./scope/index.html",
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack",
